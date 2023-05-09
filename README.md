@@ -3,7 +3,7 @@ GAGTT (Google API Get  Two Token) 是由[Honc](https://blog.honcbb.me/) 安全�
 
 #### 註：雖然Refresh_Token 提供了方便性，但在安全角度上，這組Token 一旦取得必須保護好或者避免外洩(倘若被取得，有可能造成一些安全上的風險(ex.取得訪問應用程式的權限或相關數據)。
 
-![image](https://i.imgur.com/P1hyaFy.jpg)
+![image](https://i.imgur.com/Nui5d0N.jpg)
 
 [![Release](https://img.shields.io/badge/%E7%89%88%E6%9C%AC-V1.2-green)](https://github.com/honcbb-secu/SecVir/releases)
 
